@@ -1,0 +1,7 @@
+pdfminer.six
+python-dotenv
+pandas
+openai
+trulens_eval
+pdfminer
+
